@@ -30,9 +30,4 @@ The script `coefficient_regression.py` performs regression on the identified SIN
 coefficients to express them as explicit functions of the governing sea-state parameters
 Hs, Tp, and Theta.
 
-## 4. Data Access
-The full simulation dataset, including all tower-top motion time series and associated
-environmental parameters, can be obtained by contacting:
 
-**Saravanan Bhaskaran**  
-📧 saravanan.bhaskaran@maine.edu
