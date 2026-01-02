@@ -71,6 +71,7 @@ Specifically, this repository provides:
 | Paper Section | Repository Component |
 |---------------|---------------------|
 | Dataset Generation | Pre-generated tensors from OrcaFlex simulations |
+| Reduced-Order Governing Equations | `/sindy` |
 | Physics-Informed AE | `run_curriculum.py`, model and loss definitions |
 | Curriculum Learning | `ae.py` and `tools/loss_function.py` |
 | Reconstruction Results | Auto-generated plots in `/random_plots` |
@@ -100,6 +101,7 @@ Offshore_Wind_AE/
 
 
 The dataset is stored using NumPy memory-mapped arrays for efficient loading.
+
 
 ---
 
