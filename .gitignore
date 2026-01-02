@@ -1,0 +1,7 @@
+/phase1/weights
+/phase2/weights
+/phase3/weights
+/phase1/photo_test/*.png
+/phase2/photo_test/*.png
+/phase3/photo_test/*.png
+*.gif

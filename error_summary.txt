@@ -1,0 +1,8 @@
+Phase   Split   MAE       Mean      Variance
+--------------------------------------------
+phase1  train    0.0042   -0.0051    0.9886
+phase1  test     0.0042   -0.0050    1.0081
+phase2  train    0.0032   -0.0042    0.9940
+phase2  test     0.0033   -0.0042    1.0131
+phase3  train    0.0029   -0.0034    0.9972
+phase3  test     0.0029   -0.0036    1.0151
