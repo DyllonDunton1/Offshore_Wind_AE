@@ -6,6 +6,9 @@ Official public repository for the paper:
 
 This repository contains the full implementation of the **physics-informed autoencoder (AE)** used to learn a compact latent representation of offshore wind turbine tower-top motion during blade-mating operations. The trained AE is designed to be used as the latent encoder/decoder component of a **latent diffusion digital twin**, enabling real-time, physics-consistent motion prediction.
 
+<img width="2161" height="670" alt="image" src="https://github.com/user-attachments/assets/09aadd25-b11a-406b-925c-ae292ce805f2" />
+
+
 ---
 
 ## Authors
