@@ -44,8 +44,7 @@ This repository contains the full implementation of the **physics-informed autoe
   - Provided physical interpretation of installation-stage dynamics
 
 - **Yifeng Zhu, Andrew Goupee, Amrit Verma**
-  - Provided technical guidance on offshore wind turbine dynamics
-  - Contributed to model formulation, interpretation, and validation
+  - Provided technical guidance on offshore wind turbine dynamics and model formulation
   - Reviewed and refined methodology and results
 
 ---
