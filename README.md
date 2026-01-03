@@ -88,7 +88,7 @@ Due to size constraints, the dataset is distributed separately.
 
 ### Dataset Setup
 1. Download the dataset archive:
-tensors.zip
+[tensors.zip](https://drive.google.com/file/d/1PUHw2pL4A0IlAV78bNhmLc1m_MJD_3S_/view?usp=sharing)
 
 
 2. Extract it to the **root directory** of this repository so the structure is:
